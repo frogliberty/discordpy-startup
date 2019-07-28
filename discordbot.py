@@ -16,7 +16,7 @@ async def ping(ctx):
     await ctx.send('pong')
 
 @bot.command()
-async def 山(ctx):
-    await ctx.send('川')
+async def iphone(ctx):
+    await ctx.send('thank you windows phone')
 
 bot.run(token)
